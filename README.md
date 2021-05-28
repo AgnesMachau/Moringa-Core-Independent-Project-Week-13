@@ -6,7 +6,7 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 
 ## Kira Plastinina Project(Part 2)
 
-Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. The brand’s Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year. More specifically, they would like to learn the characteristics of customer groups.
+Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. The brand’s Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year. More specifically, they would like to learn the characteristics of customer groups. Data to be used is found <a href=http://bit.ly/EcommerceCustomersDataset>here</a>
 
 ## Experimental design taken.
 * Defining the research question.
